@@ -1,0 +1,13 @@
+.indicator {
+    background-color: #72ced6;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.button-start {
+    color: darkslategrey;
+    cursor: pointer;
+    margin-top: 20px;
+    font-weight: bolder;
+    padding: 5px;
+}
