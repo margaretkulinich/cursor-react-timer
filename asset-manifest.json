@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cursor-react-timer/static/css/main.5bb8b7c9.chunk.css",
+    "main.js": "/cursor-react-timer/static/js/main.36fb7dfb.chunk.js",
+    "main.js.map": "/cursor-react-timer/static/js/main.36fb7dfb.chunk.js.map",
+    "runtime-main.js": "/cursor-react-timer/static/js/runtime-main.de98f5f4.js",
+    "runtime-main.js.map": "/cursor-react-timer/static/js/runtime-main.de98f5f4.js.map",
+    "static/js/2.81bae9e0.chunk.js": "/cursor-react-timer/static/js/2.81bae9e0.chunk.js",
+    "static/js/2.81bae9e0.chunk.js.map": "/cursor-react-timer/static/js/2.81bae9e0.chunk.js.map",
+    "static/js/3.3ed2a183.chunk.js": "/cursor-react-timer/static/js/3.3ed2a183.chunk.js",
+    "static/js/3.3ed2a183.chunk.js.map": "/cursor-react-timer/static/js/3.3ed2a183.chunk.js.map",
+    "index.html": "/cursor-react-timer/index.html",
+    "static/css/main.5bb8b7c9.chunk.css.map": "/cursor-react-timer/static/css/main.5bb8b7c9.chunk.css.map",
+    "static/js/2.81bae9e0.chunk.js.LICENSE.txt": "/cursor-react-timer/static/js/2.81bae9e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de98f5f4.js",
+    "static/js/2.81bae9e0.chunk.js",
+    "static/css/main.5bb8b7c9.chunk.css",
+    "static/js/main.36fb7dfb.chunk.js"
+  ]
+}
